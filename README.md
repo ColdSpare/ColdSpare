@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 * 🌟 Eliti, Owner: A survival multiplayer server with a unique custom magic system and custom workbenches inspired by Terraria.
 * 🎉 Oz Events, Developer: An event hosting community that constantly demands for new and improved unique features for a fun experience.
 * 👑 Gods and Glory, Developer: A civilization event hosting community built upon a dynamic power level system for unexpected reactions.
+* 📦 FastBox, Developer: A box fighting PvP type server, averaging over 100 players and peaking almost 500.
 
 ### Some of my previous servers...
 * 💥 FractelBox, Owner: An explosive PvP server in which all players are confined into a box with regenerating resources.
